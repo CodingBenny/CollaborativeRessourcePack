@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#S ",
+        " G ",
+        "   "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:smooth_sandstone"
+        },
+        "S": {
+            "item": "minecraft:stripped_spruce_wood"
+        },
+        "G": {
+            "item": "minecraft:gold_ore"
+        }
+    },
+    "result": {
+        "item": "minecraft:emerald_block",
+        "count": 1
+    }
+}
